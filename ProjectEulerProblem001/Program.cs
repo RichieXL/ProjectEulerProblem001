@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+# Name: Richie James
+# email: James2c4@mail.uc.edu
+# Assignment Title: Assignment 07
+# Due Date: 
+# Course: IS 3050
+# Semester/Year: Spring 24'
+# Brief Description: in class practice on github
+# Citations:
+# Anything else that's relevant:
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
