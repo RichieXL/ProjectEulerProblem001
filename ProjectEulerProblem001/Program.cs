@@ -6,7 +6,7 @@
 # Course: IS 3050
 # Semester/Year: Spring 24'
 # Brief Description: in class practice on github
-# Citations:
+# Citations: none
 # Anything else that's relevant:
 */
 using System;
